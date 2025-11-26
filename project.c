@@ -8,6 +8,8 @@
 #define INF 99999999
 #define N 6
 
+
+// banyak perubahan
 const char *kota[N] = {
     "Jakarta", "Bandung", "Surabaya",
     "Semarang", "Medan", "Makassar"
