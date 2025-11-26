@@ -5,7 +5,7 @@
 #ifdef _WIN32
 #include <windows.h>
 #endif
-#define INF 999
+#define INF 99999999
 #define N 6
 
 const char *kota[N] = {
